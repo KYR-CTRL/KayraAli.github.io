@@ -1,6 +1,3 @@
-# KayraAli.github.io
-Kişisel web sayfası
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
